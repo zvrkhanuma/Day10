@@ -11,6 +11,6 @@ school.name = "Paragon";
 return school;
 // Only change code above this line
 }
-console.log(myFunction(school))
-myFunction(school);
+console.log(myFunction("Paragon"))
+myFunction("Paragon");
 module.exports = { school, myFunction };
