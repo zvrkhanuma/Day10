@@ -2,8 +2,8 @@ var myPet = {
     species: "Basset",
     name: "Truba",
     legs: 4,
-    friends: ["Moli" , "Riki"],
-}
+    friends: ["Moli" , "Riki"]
+};
 // Only change code below this line
 function myFunction(myObj){
     return myObj;
